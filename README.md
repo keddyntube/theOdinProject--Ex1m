@@ -1,2 +1,2 @@
-# theOdinProject--Ex1m
-my first Odin project repository 
+# theOdinProject-Ex1m
+my first Odin project repository
